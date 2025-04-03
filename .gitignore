@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+.history/
+.idea/vcs.xml
+asyar.code-workspace
+.vscode/settings.json
